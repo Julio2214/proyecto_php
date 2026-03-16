@@ -1,4 +1,4 @@
 # Proyecto PHP
 
-## Descripción:
+## Descripción: 
 Ver demo en https://mipagina.com/proyecto_php
